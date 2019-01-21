@@ -1,9 +1,9 @@
-package org.cat73.qrcode.style;
+package com.baomidou.qrcode.style;
 
 import lombok.AccessLevel;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
-import org.cat73.qrcode.util.Lang;
+import com.baomidou.qrcode.util.Lang;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

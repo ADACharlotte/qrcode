@@ -4,7 +4,7 @@
 ## TODO
 * [ ] 完善 README.md
 * [ ] 单元测试
-* [ ] 项目归属改为[baomidou](https://github.com/baomidou)
+* [x] 项目归属改为[baomidou](https://github.com/baomidou)
 * [ ] 上传到`Maven`中央库
 * [x] 将要求的`Java`版本由`11`降回`8`
 

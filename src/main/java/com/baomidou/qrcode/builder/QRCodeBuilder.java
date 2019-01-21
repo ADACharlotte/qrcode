@@ -1,5 +1,8 @@
-package org.cat73.qrcode.builder;
+package com.baomidou.qrcode.builder;
 
+import com.baomidou.qrcode.QRCode;
+import com.baomidou.qrcode.style.IQRCodeStyle;
+import com.baomidou.qrcode.util.Strings;
 import com.google.zxing.EncodeHintType;
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 import com.google.zxing.qrcode.encoder.ByteMatrix;
@@ -7,10 +10,7 @@ import com.google.zxing.qrcode.encoder.Encoder;
 import lombok.AccessLevel;
 import lombok.NonNull;
 import lombok.Setter;
-import org.cat73.qrcode.QRCode;
-import org.cat73.qrcode.style.IQRCodeStyle;
-import org.cat73.qrcode.util.Lang;
-import org.cat73.qrcode.util.Strings;
+import com.baomidou.qrcode.util.Lang;
 
 import javax.imageio.IIOImage;
 import javax.imageio.ImageIO;

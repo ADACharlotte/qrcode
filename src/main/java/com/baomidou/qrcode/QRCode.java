@@ -1,11 +1,11 @@
-package org.cat73.qrcode;
+package com.baomidou.qrcode;
 
+import com.baomidou.qrcode.style.ImgQRCodeStyle;
 import lombok.NonNull;
-import org.cat73.qrcode.builder.QRCodeBuilder;
-import org.cat73.qrcode.style.DefaultQRCodeStyle;
-import org.cat73.qrcode.style.IQRCodeStyle;
-import org.cat73.qrcode.style.ImgBlockQRCodeStyle;
-import org.cat73.qrcode.style.ImgQRCodeStyle;
+import com.baomidou.qrcode.builder.QRCodeBuilder;
+import com.baomidou.qrcode.style.DefaultQRCodeStyle;
+import com.baomidou.qrcode.style.IQRCodeStyle;
+import com.baomidou.qrcode.style.ImgBlockQRCodeStyle;
 
 /**
  * 二维码工具类

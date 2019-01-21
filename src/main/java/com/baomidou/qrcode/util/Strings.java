@@ -1,4 +1,4 @@
-package org.cat73.qrcode.util;
+package com.baomidou.qrcode.util;
 
 /**
  * 字符串工具类

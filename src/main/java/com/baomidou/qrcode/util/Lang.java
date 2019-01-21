@@ -1,4 +1,4 @@
-package org.cat73.qrcode.util;
+package com.baomidou.qrcode.util;
 
 import lombok.NonNull;
 
